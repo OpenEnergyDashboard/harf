@@ -1,0 +1,12 @@
+{
+    "sites": [{
+        "name": "Main Site",
+        "url": "http://localhost/something",
+        "unit": "mainsite.service"
+    },
+    {
+        "name": "Test Site",
+        "url": "http://localhost:8080",
+        "unit": "testsite.service"
+    }]
+}
