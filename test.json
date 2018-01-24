@@ -5,6 +5,11 @@
         "unit": "mainsite_fake.service"
     },
     {
+        "name": "Example Website 404",
+        "url": "http://example.com/nonexist/",
+        "unit": "mainsite_fake.service"
+    },
+    {
         "name": "Test Site",
         "url": "http://localhost:8080",
         "cmd": "echo 'Test service is down!' > test.txt"
